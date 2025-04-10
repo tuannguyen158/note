@@ -1,0 +1,55 @@
+{
+  "notes":
+[
+  {
+    "id": 1, 
+    "title": "Kiểm tra giữa kỳ",
+    "content": "Hôm nay Thầy Tùng cho làm Kiểm tra ",
+    "priority": 3,
+    "createdAt": "2025-04-8T00:00:00.000Z",
+    "modifiedAt": "2025-04-8T00:00:00.000Z",  
+    "text": null,
+    "color": 'red',
+  },
+   {
+    "id": 2, 
+    "title": "Đi câu cá ",
+    "content": " đi câu cùng đám bạn học vào tháng 5 ",
+    "priority": 1,
+    "createdAt": "2025-04-7T00:00:00.000Z",
+    "modifiedAt": "2025-04-7T00:00:00.000Z",  
+    "text": null,
+    "color": 'green',
+  },
+   {
+    "id": 3, 
+    "title": "Chạy bộ ngoài trời ",
+    "content": " Có thi thể dục vào ngày 15/4 tới ",
+    "priority": 2,
+    "createdAt": "2025-04-11T00:00:00.000Z",
+    "modifiedAt": "2025-04-12T00:00:00.000Z",  
+    "text": null,
+    "color": 'orange',
+  },
+   {
+    "id": 4, 
+    "title": "Đi làm thêm ",
+    "content": " t5 tuần tơi, Sếp tới thăm nhân viên, và xem quá trình làm việc ",
+    "priority": 3,
+    "createdAt": "2025-04-8T00:00:00.000Z",
+    "modifiedAt": "2025-04-9T00:00:00.000Z",  
+    "text": null,
+    "color": 'red',
+  },
+  {
+    "id": 6, 
+    "title": "Lịch Nghĩ học",
+    "content": "Tối T7 này, thầy Tùng cho lớp nghỉ bù , ngày lễ  ",
+    "priority": 3,
+    "createdAt": "2025-04-10T00:00:00.000Z",
+    "modifiedAt": "2025-04-10T00:00:00.000Z",  
+    "text": null,
+    "color": 'red',
+  },
+]
+}
